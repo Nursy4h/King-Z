@@ -1,3 +1,4 @@
+clear
 ######################################
 # Thank You Allah Swt..              #
 # Thanks My Team : 1MP3R10R-T24M.    #
