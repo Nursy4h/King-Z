@@ -1,12 +1,11 @@
 ######################################
 # Thank You Allah Swt..              #
-# Thanks My Team : 1MP3R10R-T24M #
+# Thanks My Team : 1MP3R10R-T24M.    #
 # Thnks You All My Friends me.       #
-# Thanks All Member BCC :            #
-# Leader : Thio                   #
-# CO Founder : Zhenter            #
-# CO Leader : Akin                   #
-# CO : rimesther                 #
+# Leader : Thio                      #
+# CO Founder : Zhenter               #
+# CO Leader : Nazril                 #
+# CO : rimesther                     #
 # Cyto Xploit, Sazxt, Minewizard,    #
 ######################################
 import marshal, base64
